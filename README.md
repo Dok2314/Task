@@ -1,6 +1,6 @@
 # Company X
 
-### HO IT WORK
+### HOW IT WORK
 
 1) Upload file to folder storage/import
 2) Use console command:
